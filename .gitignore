@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InmarCodeTest/.vs/InmarCodeTest/v17/.suo
+/InmarCodeTest/LogicSkills/obj
+/InmarCodeTest/ProductOfferService/bin/Debug/net6.0
+/InmarCodeTest/LogicSkills/bin/Debug/net6.0
